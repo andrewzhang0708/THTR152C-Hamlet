@@ -10,26 +10,26 @@ _Hamlet_ by William Shakespeare
 | 4/9 Wednesday  |        |        |           |
 | 4/10 Thursday  |        |        |           |
 | 4/11 Friday    |        |        |           |
-| 4/12 Saturday  | 1-2 PM |        |           |
-| 4/13 Sunday    | 3-4 PM | [Studio Theater](#Studio) |           |
-| 4/14 Monday    |      |        |           |
-| 4/15 Tuesday   |      |        |           |
-| 4/16 Wednesday |      |        |           |
-| 4/17 Thursday  |      |        |           |
-| 4/18 Friday    |      |        |           |
+| 4/12 Saturday  | 1-2 PM | [TD-W 1703](#1703) |           |
+| 4/13 Sunday    | 2-4 PM | 2-3: [HSSB 1143](#1143) <br> 3-4: [Studio Theater](#Studio) |           |
+| 4/14 Monday    | Phill Only: 1-2 PM | [TD-W 1703](#1703) |           |
+| 4/15 Tuesday   | Mia Only: 7-8 or 9-10 PM (will update) <br> **Tent: In-class showing, 3:40-4 pm** | [Studio Theater](#Studio) |           |
+| 4/16 Wednesday | One of the following three: <br> Tent: Phill Only: 8-9 PM | [TD-W 1703](#1703) |           |
+| 4/17 Thursday  | Tent: Phill Only: 10-11 AM | [TD-W 1507](#1507) |           |
+| 4/18 Friday    | Tent: Phill Only: 11-12 AM | [TD-W 1703](#1703) |           |
 | 4/19 Saturday  |      |        |           |
 | 4/20 Sunday    |      |        |           |
 | 4/21 Monday    |      |        |           |
-| 4/22 Tuesday   |      |        |           |
-| 4/23 Wednesday |      |        |           |
-| 4/24 Thursday  |      |        |           |
-| 4/25 Friday    |      |        |           |
-| 4/26 Saturday  |      |        |           |
-| 4/27 Sunday    |      |        |           |
+| 4/22 Tuesday   | 10-11 AM | [TD-W 1507](#1507) <br> Will perform scene Tues or Thurs |           |
+| 4/23 Wednesday | 2-3 PM | [TD-W 1703](#1703) |           |
+| 4/24 Thursday  | 10-11 AM | [TD-W 1507](#1507) |           |
+| 4/25 Friday    |---TBD From Here---|        | Check out: [Amplify Reading Series] |
+| 4/26 Saturday  |      |        | Check out: [Amplify Reading Series] |
+| 4/27 Sunday    |      |        |  |
 | 4/28 Monday    |      |        |           |
-| 4/29 Tuesday   |      |        |           |
+| 4/29 Tuesday   | Might perform in class |        |           |
 | 4/30 Wednesday |      |        |           |
-| 5/1 Thursday   |      |        |           |
+| 5/1 Thursday   | **Final Showing: 3-4:50 PM <br> Time Slot: TBD** | [Studio Theater](#Studio) |           |
 
 
 
@@ -38,10 +38,12 @@ _Hamlet_ by William Shakespeare
 
 
 ## Places
-<a name="Studio"></a> [Studio Theater]: east end of department, where the auditions were held. Go down the giant stairs and it's on your left. https://maps.app.goo.gl/9ysWA1NwAuz8w3iJ6
+[Studio Theater]: east end of department, where the auditions were held. Go down the giant stairs and it's on your left. <a name="Studio"></a> https://maps.app.goo.gl/9ysWA1NwAuz8w3iJ6
 
-[TD-W 1703][TD-W 1703]: Small room on the other side of TD-W 1701 the giant lecture hall. https://maps.app.goo.gl/6NUCo76L5EozpTas5
+<a name="1703">[TD-W 1703]: Next to the legendary TD-W 1701. On the east side of the building. https://maps.app.goo.gl/6NUCo76L5EozpTas5
 
-[TD-W 1507][TD-W 1507]: Inside the hallway across from 1701/1703, behind the giant medal doors. https://maps.app.goo.gl/GMBqWgkdrD8t8avu6
+<a name="1507">[TD-W 1507]: Inside the hallway across from 1701/1703, behind the giant medal doors. https://maps.app.goo.gl/GMBqWgkdrD8t8avu6
 
-[HSSB 1143][HSSB 1143]: Inside the HSSB building, behind the performing arts theater. Where THTR 5 was taught. https://maps.app.goo.gl/chgVj2j5VaCt3Pwy8
+<a name="1143">[HSSB 1143]: Inside the HSSB building, behind the performing arts theater. Where THTR 5 was taught. https://maps.app.goo.gl/chgVj2j5VaCt3Pwy8
+
+[Amplify Reading Series]: https://www.instagram.com/p/DIRig0pPMcB/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
