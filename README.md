@@ -1,6 +1,8 @@
 # THTR152C-Hamlet
 
-_Hamlet_ by William Shakespeare
+Welcome to the world of _Hamlet_ by William Shakespeare!
+
+You can find rehearsal schedules below, the full play [here](https://folger-main-site-assets.s3.amazonaws.com/uploads/2022/11/hamlet_PDF_FolgerShakespeare.pdf). Our scene is ACT II Scene I.
 
 ## Rehearsal Schedule
 
@@ -13,7 +15,7 @@ _Hamlet_ by William Shakespeare
 | 4/12 Saturday  | 1-2 PM | [TD-W 1703](#1703) |           |
 | 4/13 Sunday    | 2-4 PM | 2-3: [HSSB 1143](#1143) <br> 3-4: [Studio Theater](#Studio) |           |
 | 4/14 Monday    | Phill Only: 1-2 PM | [TD-W 1703](#1703) |           |
-| 4/15 Tuesday   | Mia Only: 7-8 or 9-10 PM (will update) <br> **Tent: In-class showing, 3:40-4 pm** | [Studio Theater](#Studio) |           |
+| 4/15 Tuesday   | Mia Only: 7-8 or 9-10 PM (will update) <br> **In-class showing, 4-4:20 pm** | [Studio Theater](#Studio) |           |
 | 4/16 Wednesday | One of the following three: <br> Tent: Phill Only: 8-9 PM | [TD-W 1703](#1703) |           |
 | 4/17 Thursday  | Tent: Phill Only: 10-11 AM | [TD-W 1507](#1507) |           |
 | 4/18 Friday    | Tent: Phill Only: 11-12 AM | [TD-W 1703](#1703) |           |
@@ -47,3 +49,11 @@ _Hamlet_ by William Shakespeare
 <a name="1143">[HSSB 1143]: Inside the HSSB building, behind the performing arts theater. Where THTR 5 was taught. https://maps.app.goo.gl/chgVj2j5VaCt3Pwy8
 
 [Amplify Reading Series]: https://www.instagram.com/p/DIRig0pPMcB/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+
+## Resources
+
+The text with notes on words: https://www.shakespeareswords.com/Public/Play.aspx?WorkId=2&Act=2&Scene=1#116129
+
+Lexicon of Shakespeare's Works, but very user-not-friendly: https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.03.0079
+
+For a good entertainment: ["Cunk On Shakespeare"](https://youtu.be/9YeCpHoy9EQ?si=TSgYjB-F_lQAcnEu)
