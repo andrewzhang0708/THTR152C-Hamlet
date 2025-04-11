@@ -2,7 +2,7 @@
 
 Welcome to the world of _Hamlet_ by William Shakespeare!
 
-You can find rehearsal schedules below, the full play [here](https://folger-main-site-assets.s3.amazonaws.com/uploads/2022/11/hamlet_PDF_FolgerShakespeare.pdf). Our scene is ACT II Scene I.
+You can find rehearsal schedules below, the full play [here](https://folger-main-site-assets.s3.amazonaws.com/uploads/2022/11/hamlet_PDF_FolgerShakespeare.pdf). Our scene is ACT II Scene I. Additional Resources on the section below schedules.
 
 ## Rehearsal Schedule
 
