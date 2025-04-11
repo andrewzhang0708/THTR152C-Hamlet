@@ -56,4 +56,4 @@ The text with notes on words: https://www.shakespeareswords.com/Public/Play.aspx
 
 Lexicon of Shakespeare's Works, but very user-not-friendly: https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.03.0079
 
-For a good entertainment: ["Cunk On Shakespeare"](https://youtu.be/9YeCpHoy9EQ?si=TSgYjB-F_lQAcnEu)
+For a good entertainment: ["Cunk On Shakespeare"](https://youtu.be/9YeCpHoy9EQ?si=TSgYjB-F_lQAcnEu). Highly recommended!
