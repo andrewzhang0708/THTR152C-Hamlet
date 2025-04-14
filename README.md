@@ -14,7 +14,7 @@ You can find rehearsal schedules below, the full play [here](https://folger-main
 | 4/11 Friday    |        |        |           |
 | 4/12 Saturday  | 3-4 PM | [HSSB 1143](#1143) |           |
 | 4/13 Sunday    | 2-4 PM | 2-3: [HSSB 1143](#1143) <br> 3-4: [Studio Theater](#Studio) |           |
-| 4/14 Monday    | Phill Only: 1-2 PM | [TD-W 1703](#1703) |           |
+| 4/14 Monday    |        |        |           |
 | 4/15 Tuesday   | Mia Only: 7-8 PM <br> **In-class showing, 4-4:20 pm** | [Studio Theater](#Studio) |           |
 | 4/16 Wednesday | One of the following three: <br> Tent: Phill Only: 8-9 PM | [TD-W 1703](#1703) |           |
 | 4/17 Thursday  | Tent: Phill Only: 10-11 AM | [TD-W 1507](#1507) |           |
