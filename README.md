@@ -16,21 +16,21 @@ You can find rehearsal schedules below, the full play [here](https://folger-main
 | 4/13 Sunday    | 2-4 PM | 2-3: [HSSB 1143](#1143) <br> 3-4: [Studio Theater](#Studio) |           |
 | 4/14 Monday    |        |        |           |
 | 4/15 Tuesday   | Mia Only: 7-8 PM <br> **In-class showing, 4-4:20 pm** | [Studio Theater](#Studio) |           |
-| 4/16 Wednesday | One of the following three: <br> Tent: Phill Only: 8-9 PM | [TD-W 1703](#1703) |           |
-| 4/17 Thursday  | Tent: Phill Only: 10-11 AM | [TD-W 1507](#1507) |           |
-| 4/18 Friday    | Tent: Phill Only: 11-12 AM | [TD-W 1703](#1703) |           |
-| 4/19 Saturday  |      |        |           |
-| 4/20 Sunday    |      |        |           |
-| 4/21 Monday    |      |        |           |
-| 4/22 Tuesday   | 10-11 AM | [TD-W 1507](#1507) <br> Will perform scene Tues or Thurs |           |
+| 4/16 Wednesday |        | [TD-W 1703](#1703) |           |
+| 4/17 Thursday  |        | [TD-W 1507](#1507) |           |
+| 4/18 Friday    |        | [TD-W 1703](#1703) |           |
+| 4/19 Saturday  |        |        |           |
+| 4/20 Sunday    |        |        |           |
+| 4/21 Monday    |        |        |           |
+| 4/22 Tuesday   | 10-11 AM | [TD-W 1507](#1507)  |           |
 | 4/23 Wednesday | 2-3 PM | [TD-W 1703](#1703) |           |
-| 4/24 Thursday  | 10-11 AM | [TD-W 1507](#1507) |           |
-| 4/25 Friday    |---TBD From Here---|        | Check out: [Amplify Reading Series] |
+| 4/24 Thursday  | 10-11 AM | [TD-W 1507](#1507) <br> WIll perform in class! Time TBD |           |
+| 4/25 Friday    | 10-11 AM | [TD-W 1703](#1703) | Check out: [Amplify Reading Series] |
 | 4/26 Saturday  |      |        | Check out: [Amplify Reading Series] |
-| 4/27 Sunday    |      |        |  |
-| 4/28 Monday    |      |        |           |
-| 4/29 Tuesday   | Might perform in class |        |           |
-| 4/30 Wednesday |      |        |           |
+| 4/27 Sunday    | 12-1 PM | [TD-W 1703](#1703) |  |
+| 4/28 Monday    | 8-9 PM | [Studio Theater](#Studio) |           |
+| 4/29 Tuesday   | 10-11 AM <br> Might perform in class | [TD-W 1507](#1507) |           |
+| 4/30 Wednesday | 8-9 PM | [Studio Theater](#Studio) |           |
 | 5/1 Thursday   | **Final Showing: 3-4:50 PM <br> Time Slot: TBD** | [Studio Theater](#Studio) |           |
 
 
