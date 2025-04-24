@@ -23,14 +23,14 @@ You can find rehearsal schedules below, the full play [here](https://folger-main
 | 4/20 Sunday    |        |        |           |
 | 4/21 Monday    |        |        |           |
 | 4/22 Tuesday   | 10-11 AM | [TD-W 1507](#1507)  |           |
-| 4/23 Wednesday | 2-3 PM | [TD-W 1703](#1703) |           |
+| 4/23 Wednesday |        |        |           |
 | 4/24 Thursday  | 10-11 AM | [TD-W 1507](#1507) <br> WIll perform in class! Time TBD |           |
-| 4/25 Friday    | 10-11 AM | [TD-W 1703](#1703) | Check out: [Amplify Reading Series] |
-| 4/26 Saturday  |      |        | Check out: [Amplify Reading Series] |
+| 4/25 Friday    |        |        | Check out: [Amplify Reading Series] |
+| 4/26 Saturday  |        |        | Check out: [Amplify Reading Series] |
 | 4/27 Sunday    | 1-2 PM | [TD-W 1703](#1703) |  |
 | 4/28 Monday    | 8-9 PM | [Studio Theater](#Studio) |           |
 | 4/29 Tuesday   | 10-11 AM <br> Might perform in class | [TD-W 1507](#1507) |           |
-| 4/30 Wednesday | 8-9 PM | [Studio Theater](#Studio) |           |
+| 4/30 Wednesday | **Dress rehearsal: 8-9 PM** | [Studio Theater](#Studio) |           |
 | 5/1 Thursday   | **Final Showing: 3-4:50 PM <br> Time Slot: TBD** | [Studio Theater](#Studio) |           |
 
 
